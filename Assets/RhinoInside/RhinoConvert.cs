@@ -7,7 +7,7 @@ using Rhino;
 using Rhino.Geometry;
 using Rhino.Geometry.Collections;
 
-static class Convert
+static class RhinoConvert
 {
   const int MAX_FACETS_PER_MESH = 65535 / 3;
 
