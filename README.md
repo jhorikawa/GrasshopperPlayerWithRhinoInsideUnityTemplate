@@ -59,6 +59,7 @@ public void SendToggleValue(string id, bool val)
 
 TogglePanel.cs
 ```csharp
+using UnityEngine.UI;
 public class TogglePanel : MonoBehaviour
 {
     public Toggle toggle;
